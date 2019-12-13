@@ -1,0 +1,62 @@
+
+html,body{
+	width: 100%;
+}
+.container{
+	width: 1280px;
+	margin:0 auto;
+}
+.pad{
+	padding-left: 60px;
+	box-sizing: border-box;
+}
+
+/* 头部 */
+.header_inner{
+	display: flex;
+	justify-content: space-between;
+	height: 40px;
+	padding: 0 20px;
+}
+.header_inner a{
+	font-size: 14px;
+	line-height: 40px;
+}
+.icon-diqianong{
+	font-size: 180px;
+	line-height: 40px;
+	color: #0071b7;
+}
+/* 主体部分 */
+#main{
+	background: #edeff1;
+	width: 100%;
+}
+.box{
+	width: 400px;
+	height:150px;
+	margin:100px auto;
+	border:1px solid #ccc;
+	border-radius: 5px;
+	line-height: 50px;
+	
+}
+form span{
+	margin:0 10px;
+}
+form input{
+	border-radius: 3px;
+	width:200px;
+	line-height: 25px;
+	padding-left:3px;
+}
+input[type="button"]{
+	border:none;
+	background: #ccc;
+	width: 250px;
+	height:25px;
+	color:white;
+	text-align: center;
+	line-height: 25px;
+	margin-left:10px;
+}

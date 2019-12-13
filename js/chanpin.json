@@ -1,0 +1,27 @@
+[
+	{
+		"name":"自行车",
+		"pic":"images/pic07.png",
+		"price":199
+	},
+	{
+		"name":"外套+背包套装",
+		"pic":"images/pic04.png",
+		"price":39
+	},
+	{
+		"name":"紧身衣",
+		"pic":"images/pic02.png",
+		"price":129
+	},
+	{
+		"name":"鞋子",
+		"pic":"images/pic25.png",
+		"price":143
+	},
+	{
+		"name":"游泳套装",
+		"pic":"images/pic35.png",
+		"price":19
+	}
+]
